@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\moin khan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\moin khan\StudioProjects\Simnumber\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0bb85396725e64f0e0e3fcf347b6363f9d1f177d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moin khan\StudioProjects\Simnumber\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="540766a0a151d3b92db8851a5e702856a034ec48">
+        <dex dex="C:\Users\moin khan\StudioProjects\Simnumber\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_250a0f2f0f4d427673c33740d3004d07baf7e7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moin khan\StudioProjects\Simnumber\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f437b88c7327c566daf17f5fbac1d13b6bfb9cd">
+        <dex dex="C:\Users\moin khan\StudioProjects\Simnumber\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6433515919fd32a0e1c1abfaba19fdc47a08b3ac\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Feb 16 17:26:50 IST 2017
+base.0=C\:\\Users\\moin khan\\StudioProjects\\Simnumber\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6433515919fd32a0e1c1abfaba19fdc47a08b3ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\moin khan\\StudioProjects\\Simnumber\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_250a0f2f0f4d427673c33740d3004d07baf7e7e7\\classes.dex
+base.1=C\:\\Users\\moin khan\\StudioProjects\\Simnumber\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_250a0f2f0f4d427673c33740d3004d07baf7e7e7
+file.0=C\:\\Users\\moin khan\\StudioProjects\\Simnumber\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6433515919fd32a0e1c1abfaba19fdc47a08b3ac\\classes.dex
